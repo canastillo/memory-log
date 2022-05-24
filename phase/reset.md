@@ -20,7 +20,7 @@ With each talk, of course I've been learning technical concepts about the topics
 
 But I also learned about the importance of self-organization, how critical it is the ability to take fast decisions and how it doesn't matter if you don't know a topic, but how fast you learn it, as well as being open to sharing with others what you have, even if it's just a little.
 
-![It takes by far more time preparing the talk before and recovering from the talk after than giving the actual talk](<../.gitbook/assets/image (8).png>)
+![It takes by far more time preparing the talk before and recovering from the talk after than giving the actual talk](<../.gitbook/assets/image (8) (1).png>)
 
 ## Be a mentee <a href="#mentors" id="mentors"></a>
 

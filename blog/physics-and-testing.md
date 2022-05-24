@@ -31,7 +31,7 @@ I think this was my favorite part of everything I learned. Reading about the uni
 
 I learned how there's testing based on state and testing based on behaviour (I have to investigate if there's something that combines both), and how the teams get to decide what a _Unit_ is; they are the ones who know what makes sense to be called a unit.&#x20;
 
-![Test Driven Development, http://wiki.c2.com/?TestDrivenDevelopment](<../.gitbook/assets/image (3).png>)
+![Test Driven Development, http://wiki.c2.com/?TestDrivenDevelopment](<../.gitbook/assets/image (3) (1).png>)
 
 All these concepts are new to me. There are holes I yet have to fill. There are parts of the story I don't fully get. In spite of (or due to?) this, I want to learn how to integrate testing in my work, on frontend web development specially, in order to make a quality job. I'm also looking forward to reading some of Kent Beck's works.
 
