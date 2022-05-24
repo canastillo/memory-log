@@ -8,7 +8,7 @@
 * [Physics and testing](blog/physics-and-testing.md)
 * [Who do you trust?](blog/week-3.md)
 * [Fail fast, die hard](blog/week-4.md)
-* [Open Source - Round 1](blog/open-source-round-1.md)
+* [Open Source - Round 1](blog/week-7.md)
 
 ## It's just a phase mom <a href="#phase" id="phase"></a>
 
