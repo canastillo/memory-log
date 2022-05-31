@@ -13,7 +13,7 @@ This week was a loooot about testing (the academic topics actually were a little
 
 This week I was pretty interested in how Netflix would use its _Simian Army_ for **testing in production** (I mean what?).&#x20;
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 They had to do it this way because, the system is so big that simulating the whole environment would consume a lot of resources, and yet it wouldn't truly represent the real state of the project (it's literally impossible).
 
@@ -33,7 +33,7 @@ Not good.
 
 However, when we talk about testing, we are talking about products that are already created and we want them to operate well under difficult conditions. We don't want them to fail in the most critical moment. The thing is, projects can (and **must**) **fail** even before they are launched.
 
-![Pretotyping at IBM](<../.gitbook/assets/image (11).png>)
+![Pretotyping at IBM](<../.gitbook/assets/image (11) (1).png>)
 
 I had never heard of _pretotyping_ before. It's about simulating an experience in order to know if what we want to build is what we should be building. It's about **testing the idea before fully committing to make it real**. I see it as having clear where is the finish line before jumping to the water in a swimming competition.&#x20;
 
