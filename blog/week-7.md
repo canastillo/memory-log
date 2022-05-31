@@ -38,13 +38,13 @@ Since we are in a phase where **we have to get into the Open Source **_****_** c
 
 Then I remembered I had seen something similar when working with ledger. Actually, ledger uses _cmake_, but the idea is the same. They are both **build automation tools**. In other words, software that allows you to write instructions (called _rules_), that help you when **compiling a complex project**.&#x20;
 
-![It is a GNU library](<../.gitbook/assets/image (3).png>)
+![It is a GNU library](<../.gitbook/assets/image (3) (1).png>)
 
 In fact, I even heard someone saying you can use make for other things that have nothing to do with programming, but as I mentioned earlier, it is intended to automate the build process. That is, **get a binary from source code files.**&#x20;
 
 It works with _makefiles:_ we simply gotta write the commands we want to add and the instructions that must occur when that command is invoked. Here we got an example:
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 The file must be named `Makefile`.&#x20;
 

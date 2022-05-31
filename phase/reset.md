@@ -20,7 +20,7 @@ With each talk, of course I've been learning technical concepts about the topics
 
 But I also learned about the importance of self-organization, how critical it is the ability to take fast decisions and how it doesn't matter if you don't know a topic, but how fast you learn it, as well as being open to sharing with others what you have, even if it's just a little.
 
-![It takes by far more time preparing the talk before and recovering from the talk after than giving the actual talk](<../.gitbook/assets/image (8) (1).png>)
+![It takes by far more time preparing the talk before and recovering from the talk after than giving the actual talk](<../.gitbook/assets/image (8) (1) (1).png>)
 
 ## Be a mentee <a href="#mentors" id="mentors"></a>
 
@@ -32,7 +32,7 @@ About how teams work, the projects they are working on, pair programming, a litt
 
 They also have heard all of my LTs and gave me super valuable feedback. TYSM, u r awesome.
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 ## Thanks, Barb <a href="#learning_to_learn" id="learning_to_learn"></a>
 
