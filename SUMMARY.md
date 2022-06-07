@@ -10,6 +10,7 @@
 * [Fail fast, die hard](blog/week-4.md)
 * [Open Source - Round 1](blog/week-7.md)
 * [Learning to read code](blog/week-8.md)
+* [Real People](blog/week-9.md)
 
 ## It's just a phase mom <a href="#phase" id="phase"></a>
 
