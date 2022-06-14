@@ -11,6 +11,7 @@
 * [Open Source - Round 1](blog/week-7.md)
 * [Learning to read code](blog/week-8.md)
 * [Real People](blog/week-9.md)
+* [If you want to go far...](blog/week-10.md)
 
 ## It's just a phase mom <a href="#phase" id="phase"></a>
 
