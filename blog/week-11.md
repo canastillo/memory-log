@@ -18,7 +18,7 @@ From this new point of view, mistakes even seem cool. It's that chaos which make
 
 Today I attended a workshop. It was called "I'm remarkable". It was cool. It helped to learn about myself and my emotions. From now on, I'm gonna pay more attention on which moments I can give my opinion and show my knowledge. It's not bragging if it's based on facts.
 
-From this talk, the part that most impacted me was
+From this talk, the phrase that is probably gonna stay with me forever was:
 
 > My narrative.
 >
