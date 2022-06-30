@@ -13,10 +13,12 @@
 * [Real People](blog/week-9.md)
 * [If you want to go far...](blog/week-10.md)
 * [I'm remarkable](blog/week-11.md)
+* [Untitled](blog/week-12.md)
 
 ## It's just a phase mom <a href="#phase" id="phase"></a>
 
 * [Press button to reset](phase/reset.md)
+* [Teamwork](phase/teamwork.md)
 
 ## (un)classified stuff <a href="#reports" id="reports"></a>
 
