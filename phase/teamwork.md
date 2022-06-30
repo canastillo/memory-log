@@ -48,4 +48,4 @@ Oh, also, we tried so hard to fit everything, to reach the goal, that we didn't 
 
 
 
-Overall, it was a failure. Not the worst maybe, but a big one. We didn't reach our full potential. I hope I never go through this again. I mean, I'm probably going to fail a lot later in my career, but I don't want to repeat the same mistake. I'm definitely willing to be more open. Reach put for help and let the others help me. I don't have to do everything perfect in the first try or on my own. Just one step at the time.
+Overall, it was a failure. Not the worst maybe, but a big one. We didn't reach our full potential. I hope I never go through this again. I mean, I'm probably going to fail a lot later in my career, but I don't want to repeat the same mistake. I'm definitely willing to be more open. Reach out for help and let the others help me. I don't have to do everything perfect in the first try or on my own. Just one step at a time.
