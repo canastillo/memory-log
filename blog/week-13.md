@@ -16,15 +16,12 @@ Just kidding. Certainly I don't like Java, but I've always known that I feel tha
 
 First things first. There's a lot of Java vocabulary that confuses me a lot, so I needed to understand what these words meant.&#x20;
 
-**JDK:** Java Development Kit. Tools for compiling the code.
+* **JDK:** Java Development Kit. Tools for compiling the code.
+* **JRE:** Java Runtime Environment. Tools for running the code.
+* **JVM:** Java Virtual Machine.
+* **JSE**: Java Standard Edition. Includes the JDK and JRE. It basically says what type of JDK and JRE is being used.
 
-**JRE:** Java Runtime Environment. Tools for running the code.
-
-**JVM:** Java Virtual Machine.
-
-**JSE**: Java Standard Edition. Includes the JDK and JRE. It basically says what type of JDK and JRE is being used.
-
-These concepts aren't quite different or anything. In fact, they are one inside the other. The JDK includes the JRE and the JRE includes the JVM.
+These concepts aren't quite different with each other. In fact, they are one inside the other. The JDK includes the JRE and the JRE includes the JVM.
 
 ![This graph is cool, isn't it?](../.gitbook/assets/image.png)
 
