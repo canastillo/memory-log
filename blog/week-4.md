@@ -55,7 +55,7 @@ For us humans it's not that drastic. We have the capability to learn, to change,
 
 It makes me happy to think that people like Feynman, who made big contributions to various fields in science, is often remembered by the close people to him as a human, before a scientist.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 I feel that fascinating stuff like quantum mechanics and computation, which show that at microscopical scale may happen things that we don't understand, yet so simple, provoke amazing and complex stuff, like the universe itself; all these things, **make no sense if we forget who we are and that we are not alone**.
 

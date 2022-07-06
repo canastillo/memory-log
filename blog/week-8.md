@@ -58,6 +58,6 @@ Some of those concepts were:
 * **Locks**: These are used to ensure the integrity of data. Processes lock the database resource while using so that no other process is permitted to change the locked data. Locking facilitates the ACID properties of the transactions.
 * **Deadlock**: This happens when two or more transactions are waiting indefinitely for one another to give up locks.
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (12) (1).png>)
 
 That's all for this week. Bye!
