@@ -40,7 +40,7 @@ Well, it all happens thanks to the Java Virtual Machine. In other languages, lik
 The java source code (.java) is also compiled, but the Java compiler (javac) instead of generating executables, generates Java bytecode (.class), which can't be interpreted by the machine itself, but by the JVM. So, as long as you have a JVM installed, your code will be run no matter the OS of the machine.
 
 {% hint style="info" %}
-Did you know that, before Java 9, the versions of Java where formatted as 1.x? So, Java versions go like: 1.6, 1.7, 1.8, 9, 10, 11, and so on. Why? 'Cause Java developers like to suffer and make everyone else suffer. Nah just kidding, it's because of marketing stuff.
+Did you know that, before Java 9, the versions of Java were formatted as 1.x? So, Java versions go like: 1.6, 1.7, 1.8, 9, 10, 11, and so on. Why? 'Cause Java developers like to suffer and make everyone else suffer. Nah just kidding, it's because of marketing stuff.
 {% endhint %}
 
 ### Memory management
@@ -80,7 +80,9 @@ On May 30th (Thursday), I left a comment for this Micronaut issue: [https://gith
 
 On July 1st (Friday) I asked for this Hibernate issue: [https://hibernate.atlassian.net/browse/HHH-15378](https://hibernate.atlassian.net/browse/HHH-15378); and this OpenRefine issue: [https://github.com/OpenRefine/OpenRefine/issues/5004](https://github.com/OpenRefine/OpenRefine/issues/5004)
 
-At first, I was thinking on waiting for the maintainers' approval but, since there's only one week left, I decided to not to wait and start working immediately. Anyway, I hadn't had the chance to start working on any issue, until today (Tuesday), mainly 'cause I spent a lot of time working on the EPC docs, but I only managed to set up the environment for the Micronaut project. I started with that one because someone gave me the green light on Sunday.
+At first, I was thinking on waiting for the maintainers' approval but, since there's only one week left, I decided to not to wait and start working immediately. Anyway, I hadn't had the chance to start working on any issue, until today (Tuesday), mainly 'cause I spent a lot of time working on the EPC docs, but I only managed to set up the environment for the Micronaut project, so yeah, I haven't written not even a line of code.
+
+I started with the Micronaut issue because someone gave me the green light on Sunday.
 
 Actually, I'm not even sure if the environment is ready, 'cause I get some errors from the console. I tried getting some help in the gitter chats for Micronaut:
 
