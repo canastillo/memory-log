@@ -10,7 +10,7 @@ This first round of the Open Source phase is over, and I couldn't feel happier. 
 
 The point is, I gave my best effort and enjoyed a lot the process. At the beginning I was very doubtful of myself but everything turned out good. I'm going into the next phase with a lot of learnings and a very good experience. Here's what I learned.
 
-![](<../.gitbook/assets/image (11) (1).png>)
+![](<../.gitbook/assets/image (11) (1) (1).png>)
 
 ## About contributing on Open Source
 
@@ -34,7 +34,7 @@ One day after that, I had a couple of questions on some behaviour I wasn't expec
 
 And this is what they answered:
 
-![Maybe it would have been a better idea to make the PR since the beginning and leave my questions there.](<../.gitbook/assets/image (11).png>)
+![Maybe it would have been a better idea to make the PR since the beginning and leave my questions there.](<../.gitbook/assets/image (11) (1).png>)
 
 After that, I made my PR (I forgot to fork the repo at the beginning and that was giving me some trouble lol) which you can see here [https://github.com/deltachat/deltachat-desktop/pull/2778](https://github.com/deltachat/deltachat-desktop/pull/2778) and received some explanations on what was going on. The maintainers of this repo were very nice and patient with me c:
 
