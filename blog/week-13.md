@@ -23,7 +23,7 @@ First things first. There's a lot of Java vocabulary that confuses me a lot, so 
 
 These concepts aren't quite different with each other. In fact, they are one inside the other. The JDK includes the JRE and the JRE includes the JVM.
 
-![This graph is cool, isn't it?](../.gitbook/assets/image.png)
+![This graph is cool, isn't it?](<../.gitbook/assets/image (7).png>)
 
 **Note:** Java has evolved for implementing a module system in which it isn't that necessary to have a JRE.
 

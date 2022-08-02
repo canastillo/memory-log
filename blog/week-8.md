@@ -42,7 +42,7 @@ I also think that maybe I could have solved by myself the confusion I had by vis
 
 Overall, by making my contribution I learned how to create the PR, comparing a branch in the base repo with a branch in my fork, and learned that people can review your code and make suggestions, which you can commit one by one or all together in a batch.
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 I also learned how to better use the tools that Github brings for discovering and exploring repositories. I'm super happy 'cause I discovered projects which I'm pretty interesting in and want to make contributions to. Now I can tour with confidence through the threads in the repos 'cause now I have a better understanding on what is going on.
 

@@ -13,7 +13,7 @@ This week was a loooot about testing (the academic topics actually were a little
 
 This week I was pretty interested in how Netflix would use its _Simian Army_ for **testing in production** (I mean what?).&#x20;
 
-![](<../.gitbook/assets/image (7) (1).png>)
+![](<../.gitbook/assets/image (7) (1) (1).png>)
 
 They had to do it this way because, the system is so big that simulating the whole environment would consume a lot of resources, and yet it wouldn't truly represent the real state of the project (it's literally impossible).
 

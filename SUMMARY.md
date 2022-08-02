@@ -18,6 +18,7 @@
 * [Circuit breaker](blog/week-14.md)
 * [More Java](blog/week-15.md)
 * [Interviewmania!](blog/week-16.md)
+* [You are not your backhand](blog/week-17.md)
 
 ## It's just a phase mom <a href="#phase" id="phase"></a>
 
