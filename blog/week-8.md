@@ -30,7 +30,7 @@ I searched for bugs or enhancements that were good first issues. I found this on
 
 One day after that, I had a couple of questions on some behaviour I wasn't expecting, so I reached out to the contributor that offered to help me if I had any questions. This is what I asked:
 
-![](<../.gitbook/assets/image (8).png>)![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (8) (2).png>)![](<../.gitbook/assets/image (3).png>)
 
 And this is what they answered:
 

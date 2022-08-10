@@ -26,7 +26,7 @@ A cool trick for paying attention is to stop assuming we already know everything
 
 This week I learned a little about docker and how it is different from virtual machines: while containers run directly within the host’s machine kernel, virtual machines are isolated from the rest of the system.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (2).png>)
 
 > Virtual machines have host OS and the guest OS inside each VM. Guest OS can be any OS, like Linux or Windows, irrespective of host OS. In contrast, Docker containers host on a single physical server with a host OS, which shares among them. Sharing the host OS between containers makes them light and increases the boot time.
 >
@@ -36,7 +36,7 @@ Also, I learned more about how CPUs work.&#x20;
 
 Instructions are brought to the CPU from the RAM. Inside the CPU is the Control Unit, which receives the instructions stored in the RAM and decides which commands should be sent to which components. The ALU, which stands for Arithmetical Logic Unit, is the one who makes all the mathematical operations. This ALU may give an output, which is the actual result of the operation, or may give some flags, which say if certain condition has been met or not. These results are given back to the Control Unit and then stored back to the RAM.
 
-![Illustrative example of how computers work](<../.gitbook/assets/image (1).png>)
+![Illustrative example of how computers work](<../.gitbook/assets/image (1) (3).png>)
 
 The communication between these components happen through buses, which are wires. The address bus indicates which address in the memory is being accessed, the data bus is used to transfer the data, and the control bus is the one which indicates if data must be transmitted or received to be stored. This control bus often consists of two wires which are the set wire and the enable wire. Depending on which one is turned, is the action performed to the data at a given address. Some components may only have a set wire or none depending on whether it's a bus for communication two components only or it is shared between multiple components, or if communication is bidirectional.
 

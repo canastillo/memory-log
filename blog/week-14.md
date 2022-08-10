@@ -46,13 +46,13 @@ Here are some screenshots of my conversations (you can read the issue thread fro
 
 ![On https://gitter.im/micronautfw/questions](<../.gitbook/assets/image (11).png>)
 
-![On https://gitter.im/micronautfw/espanol](<../.gitbook/assets/image (2).png>)
+![On https://gitter.im/micronautfw/espanol](<../.gitbook/assets/image (2) (1).png>)
 
 As you can see, the README for contributing was outdated. This was a problem at the beginning, when I barely had an idea of what was going on and nothing made any sense but, I managed to have my environment ready anyway.
 
 ![](<../.gitbook/assets/image (14).png>)
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15) (1).png>)
 
 I used the java slack channel for more specific and technical questions.
 
