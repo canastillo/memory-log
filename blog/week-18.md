@@ -22,11 +22,11 @@ Well, it turns out that autoboxing consists of converting a primitive type into 
 
 I also learned that since Java 7, there's this thing called diamond syntax which simplifies the manage of generics. With this feature, it is enough to define the type in the reference, so it's not necessary to repeat it in the constructor. This makes it easier to deal with complex types.
 
-Something like: `Set<Integer> mySet= HashSet<>(); // see the <> making a diamond?`
+Something like: `Set`<mark style="color:yellow;">`<Integer>`</mark>`mySet= HashSet`<mark style="color:yellow;">`<>`</mark>`(); // see the <> making a diamond?`
 
 Which takes me to the other thing I learned. How to apply the Dependency Inversion principle of SOLID in Java code. Well, it's just an example. The way the line above is written, allows for easily changing the type of set that needs to be used:
 
-```
+```java
 Set<Integer> mySet= HashSet<>(); // I made a HashSet
 Set<Integer> mySet= TreeSet<>(); // But I needed a TreeSet
 Set<Integer> mySet= EnumSet<>(); // But can also use an EnumSet
@@ -40,7 +40,7 @@ This way, our code relies on interfaces, rather than concrete implementations, m
 
 This week I started learning a little about testing.
 
-![lol](../.gitbook/assets/image.png)
+![lol](<../.gitbook/assets/image (16).png>)
 
 The first visited concept was the bug's life cycle. Honestly, I thought it would be as straight forward as: discover bug, solve it, test it and done. It turns out I was missing some steps and possible results after the testing part. Here's a diagram and explanation of each phase:
 
