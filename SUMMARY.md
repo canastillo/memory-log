@@ -21,6 +21,7 @@
 * [You are not your backhand](blog/week-17.md)
 * [Java, interviews and bugs](blog/week-18.md)
 * [Testing levels and Generics](blog/week-19.md)
+* [Training](blog/training.md)
 
 ## It's just a phase mom <a href="#phase" id="phase"></a>
 
