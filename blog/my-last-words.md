@@ -32,5 +32,5 @@ That's for the "software developing" part. Now, about the technical part, I lear
 
 Finally, well, this week I was extended an offer for a full-time position as Java Engineer Jr. so, yeah, thank you all. This is the result of team work, I'm sure. I still got a looooot of things to learn, but I know I'm gonna enjoy it a lot.
 
-I'm so excited for what's coming.
+I'm so excited for what's coming, hope u r all there to see it.
 
